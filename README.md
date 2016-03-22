@@ -17,7 +17,6 @@ The field content can be outputted across a website but updated all in one place
 
 1. Upload the 'global-contact-details' directory to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. INSERT HOW TO ACTUALLY CALL FUNCTION...
 
 ## Credits
 
