@@ -1,4 +1,4 @@
-# global-contact-details
+# Global Contact Details
 Global Contact Details is a Wordpress plugin that provides setting fields to store and display global contact details.
 
 Fields provided are:
@@ -13,19 +13,19 @@ These can be edited by anyone from [Editor role](https://codex.wordpress.org/Rol
 
 The field content can be outputted across a website but updated all in one place.
 
-== Installation ==
+## Installation
 
 1. Upload the 'global-contact-details' directory to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. INSERT HOW TO ACTUALLY CALL FUNCTION...
 
-== Credits ==
+## Credits
 
 Created using tutorial on [how to build a Wordpress plugin] (https://github.com/scotch-io/how-to-build-a-wordpress-plugin-part-2) tutorial by @ncerminara.
 
 Plugin file structure created with [WordPress Plugin Boilerplate] (http://wppb.me/ "WordPress Plugin Boilerplate").
 
-== License ==
+## License
 
 GNU GENERAL PUBLIC LICENSE - Version 2
 
