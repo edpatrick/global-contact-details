@@ -1,0 +1,12 @@
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 10%;
+    margin-right: 5px;
+    text-align: left;
+}
+input {
+  display: inline-block;
+  float: left;
+}
