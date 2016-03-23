@@ -17,6 +17,13 @@ The field content can be outputted across a website but updated all in one place
 
 1. Upload the 'global-contact-details' directory to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Output the fields on any php template using this code:
+
+'''
+if (has_action('contact_detail')) {
+  do_action('contact_detail');
+}
+'''
 
 ## Credits
 
