@@ -19,12 +19,11 @@ The field content can be outputted across a website but updated all in one place
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Output the fields on any php template using this code:
 
-'''
-if (has_action('contact_detail')) {
-  do_action('contact_detail');
-}
-'''
-
+```php
+    if (has_action('contact_detail')) {
+      do_action('contact_detail');
+    }
+```
 ## Credits
 
 Created using tutorial on [how to build a Wordpress plugin] (https://github.com/scotch-io/how-to-build-a-wordpress-plugin-part-2) tutorial by @ncerminara.
