@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: (this should be a list of wordpress.org userid's)
+Contributors: edwebdev
 Donate link: http://edwebdeveloper.com
 Tags: contact, email, phone, settings, address
 Requires at least: 4.4.2
